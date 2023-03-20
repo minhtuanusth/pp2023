@@ -10,6 +10,6 @@ Student Info
 =========================
 
 * Student Name: Nguyễn Đức Minh Tuấn
-* Student ID:Bi12-466
+* Student ID: Bi12-466
 Group 5
 
